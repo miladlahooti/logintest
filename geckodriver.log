@@ -1,0 +1,115 @@
+1641036978683	geckodriver	INFO	Listening on 127.0.0.1:64249
+1641036981778	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64250" "-no-remote" "-profile" "C:\\Users\\Milad\\AppData\\Local\\Temp\\rust_mozprofilezl4Wt6"
+1641036982680	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Milad\\AppData\\Local\\Temp\\rust_mozprofilezl4Wt6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64250/devtools/browser/47249517-f3bf-484f-8db6-348fcbc719b4
+1641036985707	Marionette	INFO	Listening on port 64255
+1641036986027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 8211: unreachable code after return statement
+JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 8211: unreachable code after return statement
+JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 8211: unreachable code after return statement
+JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 8211: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--remote-debugging-port" "56155" "-no-remote" "-profile" "C:\\Users\\Milad\\AppData\\Local\\Temp\\rust_mozprofileeimwBN"
+1641037087800	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Milad\\AppData\\Local\\Temp\\rust_mozprofileeimwBN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56155/devtools/browser/b01ab882-bd0d-44be-b55a-abe08ffc6f36
+1641037090362	Marionette	INFO	Listening on port 56160
+1641037090547	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 8211: unreachable code after return statement
+JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 8211: unreachable code after return statement
+JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 8211: unreachable code after return statement
+JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 8211: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--remote-debugging-port" "61610" "-no-remote" "-profile" "C:\\Users\\Milad\\AppData\\Local\\Temp\\rust_mozprofilegl50h9"
+1641037208661	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Milad\\AppData\\Local\\Temp\\rust_mozprofilegl50h9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61610/devtools/browser/94c362a5-572f-4128-b050-e139f9ee35b0
+1641037211208	Marionette	INFO	Listening on port 61615
+1641037211417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 8211: unreachable code after return statement
+JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 8211: unreachable code after return statement
+JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 8211: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--remote-debugging-port" "59921" "-no-remote" "-profile" "C:\\Users\\Milad\\AppData\\Local\\Temp\\rust_mozprofilei9tcDa"
+1641037315832	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Milad\\AppData\\Local\\Temp\\rust_mozprofilei9tcDa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59921/devtools/browser/3221aeb4-bffb-4cb1-8df9-23f5e37ba4ed
+1641037318462	Marionette	INFO	Listening on port 59926
+1641037318614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 8211: unreachable code after return statement
+JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 8211: unreachable code after return statement
+JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 8211: unreachable code after return statement
+1641037335477	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 8211: unreachable code after return statement
+1641037337201	Marionette	INFO	Stopped listening on port 59926
+[Parent 20156, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641037574027	geckodriver	INFO	Listening on 127.0.0.1:61881
+1641037577112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61882" "-no-remote" "-profile" "C:\\Users\\Milad\\AppData\\Local\\Temp\\rust_mozprofilepR5RML"
+1641037577555	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Milad\\AppData\\Local\\Temp\\rust_mozprofilepR5RML\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61882/devtools/browser/5ab0b6fe-935d-4e38-8983-c268f4498e46
+1641037580146	Marionette	INFO	Listening on port 61888
+1641037580309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 8211: unreachable code after return statement
+1641037623766	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 8211: unreachable code after return statement
+1641037625289	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 8211: unreachable code after return statement
+1641037635726	geckodriver	INFO	Listening on 127.0.0.1:60749
+1641037638804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60750" "-no-remote" "-profile" "C:\\Users\\Milad\\AppData\\Local\\Temp\\rust_mozprofileapbbEB"
+1641037639253	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Milad\\AppData\\Local\\Temp\\rust_mozprofileapbbEB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60750/devtools/browser/7b99799f-ee72-4d87-b7ca-99b5ecd80770
+1641037642027	Marionette	INFO	Listening on port 60759
+1641037642512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 8211: unreachable code after return statement
+JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 8211: unreachable code after return statement
+JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 8211: unreachable code after return statement
+JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 8211: unreachable code after return statement
+1641037673832	Marionette	INFO	Stopped listening on port 60759
+[Parent 17860, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641037778717	geckodriver	INFO	Listening on 127.0.0.1:51304
+1641037781802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51305" "-no-remote" "-profile" "C:\\Users\\Milad\\AppData\\Local\\Temp\\rust_mozprofile9kqSFN"
+1641037782428	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Milad\\AppData\\Local\\Temp\\rust_mozprofile9kqSFN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51305/devtools/browser/34c6b27b-0b9b-432b-bdba-759696172ec6
+1641037785429	Marionette	INFO	Listening on port 51319
+1641037785542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 8211: unreachable code after return statement
+JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 8211: unreachable code after return statement
+JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 8211: unreachable code after return statement
+JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 8211: unreachable code after return statement
+1641037813889	Marionette	INFO	Stopped listening on port 51319
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
