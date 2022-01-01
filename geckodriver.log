@@ -11,9 +11,10 @@ JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 821
 JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 8211: unreachable code after return statement
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-\\firefox.exe" "--marionette" "--remote-debugging-port" "56155" "-no-remote" "-profile" "C:\\Users\\Milad\\AppData\\Local\\Temp\\rust_mozprofileeimwBN"
-1641037087800	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Milad\\AppData\\Local\\Temp\\rust_mozprofileeimwBN\\search.json.mozlz4", (void 0)))
+1641038035131	Marionette	INFO	Stopped listening on port 64255
+[Parent 17096, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+t open the file at C:\\Users\\Milad\\AppData\\Local\\Temp\\rust_mozprofileeimwBN\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:56155/devtools/browser/b01ab882-bd0d-44be-b55a-abe08ffc6f36
 1641037090362	Marionette	INFO	Listening on port 56160
 1641037090547	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
@@ -23,8 +24,9 @@ JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 821
 JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 8211: unreachable code after return statement
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-\\firefox.exe" "--marionette" "--remote-debugging-port" "61610" "-no-remote" "-profile" "C:\\Users\\Milad\\AppData\\Local\\Temp\\rust_mozprofilegl50h9"
-1641037208661	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1641038034304	Marionette	INFO	Stopped listening on port 56160
+nette enabled
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Milad\\AppData\\Local\\Temp\\rust_mozprofilegl50h9\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:61610/devtools/browser/94c362a5-572f-4128-b050-e139f9ee35b0
 1641037211208	Marionette	INFO	Listening on port 61615
@@ -34,9 +36,12 @@ JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 821
 JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 8211: unreachable code after return statement
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-\\firefox.exe" "--marionette" "--remote-debugging-port" "59921" "-no-remote" "-profile" "C:\\Users\\Milad\\AppData\\Local\\Temp\\rust_mozprofilei9tcDa"
-1641037315832	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Milad\\AppData\\Local\\Temp\\rust_mozprofilei9tcDa\\search.json.mozlz4", (void 0)))
+1641038022166	Marionette	INFO	Stopped listening on port 61615
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+otFoundError("Could not open the file at C:\\Users\\Milad\\AppData\\Local\\Temp\\rust_mozprofilei9tcDa\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:59921/devtools/browser/3221aeb4-bffb-4cb1-8df9-23f5e37ba4ed
 1641037318462	Marionette	INFO	Listening on port 59926
 1641037318614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
@@ -70,9 +75,10 @@ TimedPromise@chrome://remote/content/marionette/sync.js:223:10
 interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
 webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
 JavaScript warning: https://www.digikala.com/static/merged/b66895b1.js, line 8211: unreachable code after return statement
-1641037635726	geckodriver	INFO	Listening on 127.0.0.1:60749
-1641037638804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60750" "-no-remote" "-profile" "C:\\Users\\Milad\\AppData\\Local\\Temp\\rust_mozprofileapbbEB"
-1641037639253	Marionette	INFO	Marionette enabled
+1641038030022	Marionette	INFO	Stopped listening on port 61888
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 20636, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+037639253	Marionette	INFO	Marionette enabled
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Milad\\AppData\\Local\\Temp\\rust_mozprofileapbbEB\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:60750/devtools/browser/7b99799f-ee72-4d87-b7ca-99b5ecd80770
 1641037642027	Marionette	INFO	Listening on port 60759
